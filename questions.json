@@ -1,0 +1,154 @@
+[
+  {
+    "question": "What was the name of my first pet lizard?",
+    "choice1": "Bluey",
+    "choice2": "Poop",
+    "choice3": "Silky",
+    "choice4": "Slime",
+    "answer": 3
+  },
+  {
+    "question": "What is my favourite fruit?",
+    "choice1": "Jackfruit",
+    "choice2": "Strawberry",
+    "choice3": "Lychee",
+    "choice4": "Orange",
+    "answer": 3
+  },
+  {
+    "question": "What is my middle name?",
+    "choice1": "Rose",
+    "choice2": "Hue",
+    "choice3": "Jade",
+    "choice4": "Thuy",
+    "answer": 4
+  },
+  {
+    "question": "When is Raffy's birthday?",
+    "choice1": "Feb 5",
+    "choice2": "Aug 21",
+    "choice3": "Jan 31",
+    "choice4": "Nov 1",
+    "answer": 3
+  },
+  {
+    "question": "When is my birthday?",
+    "choice1": "May 24",
+    "choice2": "Jan 27",
+    "choice3": "Dec 12",
+    "choice4": "Nov 1",
+    "answer": 1
+  },
+  {
+    "question": "What sport did I play?",
+    "choice1": "Tennis",
+    "choice2": "Soccer",
+    "choice3": "Netball",
+    "choice4": "Handball",
+    "answer": 1
+  },
+  {
+    "question": "What is my favourite macaron flavour?",
+    "choice1": "Creme Brulee",
+    "choice2": "Pistachio",
+    "choice3": "Birthday Cake",
+    "choice4": "Raspberry",
+    "answer": 1
+  },
+  {
+    "question": "What was the first suburb I've ever lived in?",
+    "choice1": "Greenfield Park",
+    "choice2": "Wakeley",
+    "choice3": "Cabramatta",
+    "choice4": "Prairiewood",
+    "answer": 1
+  },
+  {
+    "question": "What did my dad bang my big toe on really bad when I was kid?",
+    "choice1": "Island",
+    "choice2": "Corner of the wall",
+    "choice3": "Car door",
+    "choice4": "Garage door",
+    "answer": 4
+  },
+  {
+    "question": "What am I craving right now?",
+    "choice1": "Hot Star",
+    "choice2": "Gong cha",
+    "choice3": "Kerbside",
+    "choice4": "Papa Flock",
+    "answer": 3
+  },
+  {
+    "question": "What is my roblox avatar?",
+    "choice1": "Duck",
+    "choice2": "Flamingo",
+    "choice3": "Tatted baddie",
+    "choice4": "Grimace",
+    "answer": 2
+  },
+  {
+    "question": "What show did I watch as a kid?",
+    "choice1": "Paw Patrol",
+    "choice2": "The Baby-sitters Club",
+    "choice3": "In the Night Garden",
+    "choice4": "Twilight",
+    "answer": 3
+  },
+  {
+    "question": "What was the name of my very first crush?",
+    "choice1": "William",
+    "choice2": "Max",
+    "choice3": "Christian",
+    "choice4": "Jake",
+    "answer": 1
+  },
+  {
+    "question": "What is my favouite colour",
+    "choice1": "Purple",
+    "choice2": "Red",
+    "choice3": "Pink",
+    "choice4": "Blue",
+    "answer": 4
+  },
+  {
+    "question": "What is the background on my ipad?",
+    "choice1": "My dogs",
+    "choice2": "Beach",
+    "choice3": "Sunset",
+    "choice4": "Pinterest Background",
+    "answer": 2
+  },
+  {
+    "question": "What is my favourite holiday destination?",
+    "choice1": "Fiji",
+    "choice2": "Queensland",
+    "choice3": "Hawaii",
+    "choice4": "Coco Kay",
+    "answer": 3
+  },
+  {
+    "question": "How many siblings do I have?",
+    "choice1": "None",
+    "choice2": "1",
+    "choice3": "2",
+    "choice4": "3",
+    "answer": 2
+  },
+  {
+    "question": "Favourite movie?",
+    "choice1": "Girl Interrupted",
+    "choice2": "Forrest Gump",
+    "choice3": "The Virgin Suicides",
+    "choice4": "Frozen 2",
+    "answer": 2
+  },
+  {
+    "question": "Favourite book?",
+    "choice1": "The Virgin Suicides, Jeffrey Eugenides",
+    "choice2": "Crime and Punishment, Fyodor Dostoyevsky",
+    "choice3": "The Bell Jar, Sylvia Plath",
+    "choice4": "Letters to Milena, Franz Kafka",
+    "answer": 3
+  }
+]
